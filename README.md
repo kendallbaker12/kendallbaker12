@@ -1,4 +1,7 @@
-### Hi there 👋
+## Kendall Baker
+
+My [Linkedin](https://www.linkedin.com/in/kendall-baker-033210205/)
+
 
 <!--
 **kendallbaker12/kendallbaker12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
