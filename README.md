@@ -3,7 +3,7 @@
 My [Linkedin](https://www.linkedin.com/in/kendall-baker-033210205/)
 
 
-[![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendallbaker12)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendallbaker12)](https://github.com/kendallbaker12/github-readme-stats)
 
 <!--
 **kendallbaker12/kendallbaker12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
